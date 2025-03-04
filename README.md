@@ -1,2 +1,2 @@
 # js-example
-t
+tray luarn js
