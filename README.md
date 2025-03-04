@@ -1,2 +1,2 @@
 # js-example
-try ti learining js
+try to learining js
