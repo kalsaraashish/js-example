@@ -1,2 +1,2 @@
 # js-example
-tray luarn js
+try ti learining js
